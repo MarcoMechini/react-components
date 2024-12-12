@@ -1,4 +1,4 @@
-import AppPost from './AppPost'
+import AppPost from '../Post/AppPost'
 export default function AppMain() {
     return (
         <main>
